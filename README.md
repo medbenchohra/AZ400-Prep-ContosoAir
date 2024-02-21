@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/mohamed-benchohra/AZ-400-ContosoAir/_apis/build/status%2Fmedbenchohra.AZ400-Prep-ContosoAir?branchName=master)](https://dev.azure.com/mohamed-benchohra/AZ-400-ContosoAir/_build/latest?definitionId=11&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
